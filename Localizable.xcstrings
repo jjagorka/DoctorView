@@ -1,0 +1,205 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "Chat screen" : {
+
+    },
+    "covid_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Covid 19"
+          }
+        }
+      }
+    },
+    "Date screen" : {
+
+    },
+    "date_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sunday, 12 June"
+          }
+        }
+      }
+    },
+    "distance_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1.2 KM"
+          }
+        }
+      }
+    },
+    "doctor_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doctor"
+          }
+        }
+      }
+    },
+    "first_doctor_degree" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General Doctor"
+          }
+        }
+      }
+    },
+    "first_doctor_name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dr. Imran Syahir"
+          }
+        }
+      }
+    },
+    "greeting_first_part" : {
+      "comment" : "Text",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello,"
+          }
+        }
+      }
+    },
+    "greeting_second_part" : {
+      "comment" : "Text",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hi"
+          }
+        }
+      }
+    },
+    "hospital_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hospital"
+          }
+        }
+      }
+    },
+    "medicine_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medicine"
+          }
+        }
+      }
+    },
+    "near_doctor_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Near Doctor"
+          }
+        }
+      }
+    },
+    "open_time_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open at 17.00"
+          }
+        }
+      }
+    },
+    "Profile screen" : {
+
+    },
+    "rating_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4,8 (120 Reviews)"
+          }
+        }
+      }
+    },
+    "search_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search doctor or health issue"
+          }
+        }
+      }
+    },
+    "second_doctor_degree" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dental Specialist"
+          }
+        }
+      }
+    },
+    "second_doctor_name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dr. Joseph Brosito"
+          }
+        }
+      }
+    },
+    "time_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "11:00 - 12:00 AM"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
