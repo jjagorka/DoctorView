@@ -12,7 +12,3 @@
 
 * You need Xcode 15
 * Run -> Run 'app'
-
-## Who to contact with questions
-
-* [Popkov Denis](https://t.me/MolodoyDenis)
